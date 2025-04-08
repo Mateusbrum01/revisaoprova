@@ -8,4 +8,5 @@ function pedirInformacoes() {
         alert("Você não preencheu todas as informações, tente novamente.");
     }
 }
+
 window.onload = pedirInformacoes;
